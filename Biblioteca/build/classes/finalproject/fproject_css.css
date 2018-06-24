@@ -1,0 +1,25 @@
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(yellow, red);
+
+}
+.button:hover {
+    -fx-background-color: linear-gradient(#2A5058, yellow);
+   
+}
+.root{
+    -fx-background-color:lightgreen;
+}
+#main-label{
+     -fx-font-weight: bold;
+     -fx-font-size: 17px;
+     
+
+}
+.label{
+    -fx-fill: #2A5058;
+   
+}
+
